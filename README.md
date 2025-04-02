@@ -47,8 +47,7 @@ destacam:
 **GitHub:** [HEXABEES](https://github.com/HEXABEES/API-SCRUM)</br></br>
 
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/80b00129-3376-46cf-87d4-db16bbb8b71a" alt="aplicação rodando" width="600" height="450">
+https://github.com/user-attachments/assets/dd925e9e-4339-4ac9-9ff9-c13f13a70b0a
 </div>
 
 ### Tecnologias Utilizadas
