@@ -68,7 +68,7 @@ Melhoria de Processos: Contribuí para a otimização do fluxo de trabalho, prom
 
 ### Hard Skills
 
-- **HTML5**: Desenvolvimento de páginas web estruturadas, com estilização básica focada em responsividade e usabilidade.
+- **HTML5 e CSS**: Desenvolvimento de páginas web estruturadas, com estilização básica focada em responsividade e usabilidade.
 - **METODOLOGIA ÁGIL**: Priorização de tarefas para garantir entregas dentro dos prazos e manter a eficiência do fluxo de trabalho.
 
 ---
