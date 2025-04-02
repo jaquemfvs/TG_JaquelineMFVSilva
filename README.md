@@ -44,11 +44,11 @@ destacam:
 
 **Solução:** O grupo desenvolveu um site de treinamento sobre o Scrum, em que nosso "cliente" utilizará tal site para treinar seus colaboradores para que possam aprender e aplicar a Metodologia Ágil em sua organização.</br></br>
 
-**GitHub:** [HEXABEES](https://github.com/MirageGroup/API_MirageGroup)</br></br>
+**GitHub:** [HEXABEES](https://github.com/HEXABEES/API-SCRUM)</br></br>
 
 <div align="center">
 
-<img src="./assets/mvp-sprint4.gif" alt="aplicação rodando" width="600" height="450">
+<img src="https://github.com/user-attachments/assets/80b00129-3376-46cf-87d4-db16bbb8b71a" alt="aplicação rodando" width="600" height="450">
 </div>
 
 ### Tecnologias Utilizadas
@@ -59,18 +59,17 @@ destacam:
 
 ### Contribuições Pessoais
 
-Minhas principais contribuições no projeto foram:
-
-- Implementação das **Especificações dos laboratórios**, criando uma integração que demonstrava ao usuário qual a configuração o laboratório possuia e na tela do admin a possibilidade de alterar os componentes caso necessário assim realizando o controle junto ao **MySQL**.
-- Desenvolvimento da funcionalidade de **Admin**, que permitia criar e gerenciar a hierarquia entre usuarios. Trabalhei diretamente na interação entre o frontend e o backend, garantindo que os chamados fossem armazenados corretamente no **MySQL** e acesso correto a cada usuário.
+Principais Contribuições:<br>
+Scrum Master: Conduzi reuniões para alinhar expectativas e garantir o cumprimento dos objetivos.<br>
+Desenvolvimento: Desenvolvi uma página web utilizando HTML, garantindo uma estrutura eficiente.<br>
+Melhoria de Processos: Contribuí para a otimização do fluxo de trabalho, promovendo boas práticas ágeis.
 
 ---
 
 ### Hard Skills
 
-- **HTML5**: Desenvolvimento de interfaces web de forma estruturada. Proeficiência: (7/10).
-- **CSS**: Estilização básica de elementos com foco em responsividade e usabilidade. Proeficiência: (6/10).
-- **Python**: Criação de interatividade entre o Back-end e o banco de dados. Proeficiência: (09/10).
+- **HTML5**: Desenvolvimento de páginas web estruturadas, com estilização básica focada em responsividade e usabilidade.
+- **METODOLOGIA ÁGIL**: Priorização de tarefas para garantir entregas dentro dos prazos e manter a eficiência do fluxo de trabalho.
 
 ---
 
