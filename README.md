@@ -10,8 +10,7 @@ Trabalho de Graduação - ADS - FATEC
   <tr>
     <td width="70%" align="justify">
       Olá, meu nome é Jaqueline. Sou formada em Engenharia Mecânica, e, após um período dedicado à maternidade, decidi retomar os estudos e iniciar minha trajetória na área da computação. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC - São José dos Campos.
-Ao longo da minha jornada acadêmica, adquiri conhecimentos em diversas linguagens de programação, sistemas operacionais e metodologias ágeis, entre outros temas relevantes para a área de tecnologia.
-Minha experiência profissional inclui um estágio de dois meses como desenvolvedora front-end em um jornal online de São José dos Campos. Em janeiro de 2024, ingressei na Johnson & Johnson como estagiária na área de Sistemas de Informação e Análise de Riscos, onde atuo no suporte à equipe em processos e métricas da área.
+Ao longo da minha jornada acadêmica, adquiri conhecimentos em linguagens de programação como Python e JavaScript, além de aprofundar meus conhecimentos em bancos de dados, sistemas operacionais e metodologias ágeis. Minha experiência profissional inclui um estágio de dois meses como desenvolvedora front-end em um jornal online de São José dos Campos. Em janeiro de 2024, ingressei na Johnson & Johnson como estagiária na área de Sistemas de Informação e Análise de Riscos, onde atuo no suporte à equipe em processos e métricas da área.
     </td>
    </div>
 <br>
@@ -22,13 +21,11 @@ Minha experiência profissional inclui um estágio de dois meses como desenvolve
 * [E-mail](mailto:jaque_fv@hotmail.com)
 
 ## Meus Principais Conhecimentos 
-Sou apaixonada por análise de dados, mas também possuo conhecimento em tecnologias voltadas ao desenvolvimento front-end e back-end. Entre todos meus conhecimentos, se 
-destacam: 
-* Python 
-* SQL 
-* HTML 
-* JavaScript 
-* CSS
+Tenho grande interesse por análise de dados e experiência em desenvolvimento full-stack, abrangendo tanto front-end quanto back-end. No decorrer da minha formação e experiência profissional, trabalhei com diversas tecnologias, destacando-se:
+Python: Aplicado na manipulação de dados, desenvolvimento de scripts e construção de lógica de programação.
+SQL: Consulta e manipulação de dados em bancos relacionais como MySQL.
+HTML, CSS e JavaScript: Desenvolvimento de interfaces responsivas, com foco em acessibilidade e experiência do usuário.
+Frameworks e Bibliotecas: Uso de React.js para construção de interfaces dinâmicas.
 
 ## Meus Projetos
 <details>
@@ -40,9 +37,9 @@ destacam:
 - **Área de Atuação:** Empresa de Educação Remota.</br></br>
 
 **Professores responsáveis:** *Antônio Egydio & Jean Carlos Costa* </br></br>
-**Desafio:** Desenvolver um sistema web que indique todos os processos e artefatos da metodologia ágil (Scrum), todos os processos deverão ter conceitos e fundamentos com referências, bem como a aplicação com exemplos práticos para a plena compreensão do usuário do sistema. Deverá criar um formulário para avaliações parciais e final (com totalização). O Sistema deve primordialmente ter foco na disseminação dos processos para que os usuários possam replicar todos os passos em futuros desenvolvimentos. A prioridade secundária será a compreensão de habilidades (Skills) importantes para um profissional de tecnologia da informação.Todo o material de conhecimento publicado no sistema deverá ter forma indireta (Conhecimento adquirido e repassado pelos desenvolvedores). Bem como toda a documentação de desenvolvimento deverá ser lastreado no GitHub com todos os processos necessários para a fidelização do cliente.</br>
+**Desafio:** Desenvolver um sistema web para apresentar os processos e artefatos da metodologia ágil Scrum, oferecendo conceitos, fundamentos e exemplos práticos para facilitar a compreensão e replicação dos métodos pelos usuários. O sistema também inclui um formulário de avaliação parcial e final, permitindo a mensuração do aprendizado. Todo o conteúdo deve ser disponibilizado de forma indireta (conhecimento adquirido e repassado pelos desenvolvedores), e a documentação do projeto deve ser mantida no GitHub para garantir a rastreabilidade e fidelização do cliente.</br>
 
-**Solução:** O grupo desenvolveu um site de treinamento sobre o Scrum, em que nosso "cliente" utilizará tal site para treinar seus colaboradores para que possam aprender e aplicar a Metodologia Ágil em sua organização.</br></br>
+**Solução:** Criamos um site interativo para treinamento e disseminação da metodologia Scrum, permitindo que nosso cliente treine seus colaboradores na aplicação prática do framework ágil dentro da organização. A plataforma apresenta os conceitos essenciais do Scrum, estruturados com materiais didáticos e avaliações integradas para medir o progresso dos usuários.</br></br>
 
 **GitHub:** [HEXABEES](https://github.com/HEXABEES/API-SCRUM)</br></br>
 
@@ -52,29 +49,29 @@ https://github.com/user-attachments/assets/dd925e9e-4339-4ac9-9ff9-c13f13a70b0a
 
 ### Tecnologias Utilizadas
 
-- **HTML5 & CSS**: Utilizados para desenvolver uma interface web intuitiva e responsiva, proporcionando uma experiência de navegação fluida e eficiente para os técnicos, facilitando o uso da aplicação.
-- **Python**: Empregado para o desenvolvimento da lógica de negócios e processamento de dados da aplicação, oferecendo uma sintaxe clara e bibliotecas poderosas que facilitam a implementação de funcionalidades complexas.
-- **Figma**: Utilizado para o design e prototipação da interface da aplicação, permitindo a criação de layouts intuitivos e responsivos, garantindo uma experiência de usuário eficiente e bem estruturada.
+- **HTML5 & CSS**: Desenvolvimento de uma interface web responsiva e intuitiva para facilitar a navegação e usabilidade.
+- **Python**: Implementação da lógica de negócios e processamento de dados, garantindo um backend robusto e eficiente.
+- **Figma**: Design e prototipação da interface, criando layouts organizados e acessíveis para uma experiência de usuário otimizada.
 
 ### Contribuições Pessoais
 
 Principais Contribuições:<br>
-Scrum Master: Conduzi reuniões para alinhar expectativas e garantir o cumprimento dos objetivos.<br>
-Desenvolvimento: Desenvolvi uma página web utilizando HTML, garantindo uma estrutura eficiente.<br>
-Melhoria de Processos: Contribuí para a otimização do fluxo de trabalho, promovendo boas práticas ágeis.
+Scrum Master: Facilitei reuniões para alinhamento da equipe e acompanhamento das entregas, garantindo a aplicação eficaz do framework Scrum.<br>
+Desenvolvimento: Atuei na construção de páginas HTML, garantindo uma estrutura eficiente e organizada para a aplicação.<br>
+Melhoria de Processos: Contribuí na otimização do fluxo de trabalho, implementando boas práticas ágeis e garantindo entregas dentro do prazo.
 
 ---
 
 ### Hard Skills
 
-- **HTML5 e CSS**: Desenvolvimento de páginas web estruturadas, com estilização básica focada em responsividade e usabilidade.
-- **METODOLOGIA ÁGIL**: Priorização de tarefas para garantir entregas dentro dos prazos e manter a eficiência do fluxo de trabalho.
+- **HTML5 e CSS**: Desenvolvimento de páginas web estruturadas, com foco em responsividade e usabilidade.
+- **METODOLOGIA ÁGIL**: Aplicação de práticas ágeis para organização e execução do projeto.
 
 ---
 
 ### Soft Skills
 
-- **Scrum Master**: No projeto, atuei como Scrum Master, facilitando reuniões para alinhar expectativas e assegurar o cumprimento dos objetivos.
-- **Trabalho em equipe**: Colaborei com desenvolvedores e técnicos para garantir a integração eficiente dos componentes do projeto.
+- **Scrum Master**: Atuação como Scrum Master, conduzindo reuniões para alinhamento de expectativas e acompanhamento do progresso da equipe. Como no início do semestre o grupo ainda não se conhecia bem, realizei follow-ups diários para identificar possíveis dificuldades na compreensão das tarefas e oferecer suporte sempre que necessário.
+- **Trabalho em equipe**: Colaboração com desenvolvedores e técnicos para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, garantindo que as entregas não fossem comprometidas.
 
 </details>
