@@ -72,6 +72,6 @@ Melhoria de Processos: Contribuí na otimização do fluxo de trabalho, implemen
 ### Soft Skills
 
 - **Scrum Master**: Atuação como Scrum Master, conduzindo reuniões para alinhamento de expectativas e acompanhamento do progresso da equipe. Como no início do semestre o grupo ainda não se conhecia bem, realizei follow-ups diários para identificar possíveis dificuldades na compreensão das tarefas e oferecer suporte sempre que necessário.
-- **Trabalho em equipe**: Colaboração com desenvolvedores e técnicos para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, garantindo que as entregas não fossem comprometidas.
+- **Trabalho em equipe**: Colaboração com desenvolvedores e técnicos para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, deixando horários definidos para isso, garantindo que as entregas não fossem comprometidas.
 
 </details>
