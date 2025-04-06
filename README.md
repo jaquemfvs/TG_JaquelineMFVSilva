@@ -22,7 +22,7 @@ Ao longo da minha jornada acadêmica, adquiri conhecimentos em linguagens de pro
 
 ## Meus Principais Conhecimentos 
 Tenho grande interesse por análise de dados e experiência em desenvolvimento full-stack, abrangendo tanto front-end quanto back-end. No decorrer da minha formação e experiência profissional, trabalhei com diversas tecnologias, destacando-se:
-Python: Aplicado na manipulação de dados, desenvolvimento de scripts e construção de lógica de programação.
+Python: Python: Aplicado na manipulação de dados, desenvolvimento de scripts e construção de lógica de programação, com destaque para projetos voltados à Análise de Dados Públicos, utilizando bibliotecas como Pandas e Matplotlib para explorar, limpar e visualizar informações extraídas de fontes governamentais e bases abertas.
 SQL: Consulta e manipulação de dados em bancos relacionais como MySQL.
 HTML, CSS e JavaScript: Desenvolvimento de interfaces responsivas, com foco em acessibilidade e experiência do usuário.
 Frameworks e Bibliotecas: Uso de React.js para construção de interfaces dinâmicas.
