@@ -9,8 +9,8 @@ Trabalho de Graduação - ADS - FATEC
 <div>
   <tr>
     <td width="70%" align="justify">
-      Olá, meu nome é Jaqueline. Sou formada em Engenharia Mecânica, e, após um período dedicado à maternidade, decidi retomar os estudos e iniciar minha trajetória na área da computação. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC - São José dos Campos.
-Ao longo da minha jornada acadêmica, adquiri conhecimentos em linguagens de programação como Python e JavaScript, além de aprofundar meus conhecimentos em bancos de dados, sistemas operacionais e metodologias ágeis. Minha experiência profissional inclui um estágio de dois meses como desenvolvedora front-end em um jornal online de São José dos Campos. Em janeiro de 2024, ingressei na Johnson & Johnson como estagiária na área de Sistemas de Informação e Análise de Riscos, onde atuo no suporte à equipe em processos e métricas da área.
+      Olá, meu nome é Jaqueline. Sou formada em Engenharia Mecânica, e, após um período dedicado à maternidade, decidi retomar os estudos e iniciar minha trajetória na área da computação. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC - São José dos Campos.<br>
+      Ao longo da minha jornada acadêmica, adquiri conhecimentos em linguagens de programação como Python e JavaScript, além de aprofundar meus conhecimentos em bancos de dados, sistemas operacionais e metodologias ágeis. Minha experiência profissional inclui um estágio de dois meses como desenvolvedora front-end em um jornal online de São José dos Campos. Em janeiro de 2024, ingressei na Johnson & Johnson como estagiária na área de Sistemas de Informação e Análise de Riscos, onde atuo no suporte à equipe em processos e métricas da área.
     </td>
    </div>
 <br>
@@ -21,11 +21,11 @@ Ao longo da minha jornada acadêmica, adquiri conhecimentos em linguagens de pro
 * [E-mail](mailto:jaque_fv@hotmail.com)
 
 ## Meus Principais Conhecimentos 
-Tenho grande interesse por análise de dados e experiência em desenvolvimento full-stack, abrangendo tanto front-end quanto back-end. No decorrer da minha formação e experiência profissional, trabalhei com diversas tecnologias, destacando-se:
-Python: Python: Aplicado na manipulação de dados, desenvolvimento de scripts e construção de lógica de programação, com destaque para projetos voltados à Análise de Dados Públicos, utilizando bibliotecas como Pandas e Matplotlib para explorar, limpar e visualizar informações extraídas de fontes governamentais e bases abertas.
-SQL: Consulta e manipulação de dados em bancos relacionais como MySQL.
-HTML, CSS e JavaScript: Desenvolvimento de interfaces responsivas, com foco em acessibilidade e experiência do usuário.
-Frameworks e Bibliotecas: Uso de React.js para construção de interfaces dinâmicas.
+Tenho grande interesse por análise de dados e experiência em desenvolvimento full-stack, abrangendo tanto front-end quanto back-end. No decorrer da minha formação e experiência profissional, trabalhei com diversas tecnologias, destacando-se:<br>
+Python: Python: Aplicado na manipulação de dados, desenvolvimento de scripts e construção de lógica de programação, com destaque para projetos voltados à Análise de Dados Públicos, utilizando bibliotecas como Pandas e Matplotlib para explorar, limpar e visualizar informações extraídas de fontes governamentais e bases abertas.<br>
+SQL: Consulta e manipulação de dados em bancos relacionais como MySQL.<br>
+HTML, CSS e JavaScript: Desenvolvimento de interfaces responsivas, com foco em acessibilidade e experiência do usuário.<br>
+Frameworks e Bibliotecas: Uso de React.js para construção de interfaces dinâmicas.<br>
 
 ## Meus Projetos
 <details>
