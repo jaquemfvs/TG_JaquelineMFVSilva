@@ -37,8 +37,8 @@ Frameworks e Bibliotecas: Uso de React.js para construção de interfaces dinâm
 - **Área de Atuação:** Empresa de Educação Remota.</br></br>
 
 **Professores responsáveis:** *Antônio Egydio & Jean Carlos Costa* </br></br>
+**Problema:** A organização enfrentava dificuldades na capacitação de seus colaboradores quanto à aplicação prática da metodologia ágil Scrum. Os treinamentos existentes eram teóricos e pouco interativos, resultando em baixo engajamento e dificuldade de replicar os métodos no dia a dia das equipes. Além disso, não havia uma forma estruturada de medir o aprendizado dos participantes, nem mecanismos para manter a documentação acessível e rastreável.</br>
 **Desafio:** Desenvolver um sistema web para apresentar os processos e artefatos da metodologia ágil Scrum, oferecendo conceitos, fundamentos e exemplos práticos para facilitar a compreensão e replicação dos métodos pelos usuários. O sistema também inclui um formulário de avaliação parcial e final, permitindo a mensuração do aprendizado. Todo o conteúdo deve ser disponibilizado de forma indireta (conhecimento adquirido e repassado pelos desenvolvedores), e a documentação do projeto deve ser mantida no GitHub para garantir a rastreabilidade e fidelização do cliente.</br>
-
 **Solução:** Criamos um site interativo para treinamento e disseminação da metodologia Scrum, permitindo que nosso cliente treine seus colaboradores na aplicação prática do framework ágil dentro da organização. A plataforma apresenta os conceitos essenciais do Scrum, estruturados com materiais didáticos e avaliações integradas para medir o progresso dos usuários.</br></br>
 
 **GitHub:** [HEXABEES](https://github.com/HEXABEES/API-SCRUM)</br></br>
@@ -56,22 +56,21 @@ https://github.com/user-attachments/assets/dd925e9e-4339-4ac9-9ff9-c13f13a70b0a
 ### Contribuições Pessoais
 
 Principais Contribuições:<br>
-Scrum Master: Facilitei reuniões para alinhamento da equipe e acompanhamento das entregas, garantindo a aplicação eficaz do framework Scrum.<br>
-Desenvolvimento: Atuei na construção de páginas HTML, garantindo uma estrutura eficiente e organizada para a aplicação.<br>
-Melhoria de Processos: Contribuí na otimização do fluxo de trabalho, implementando boas práticas ágeis e garantindo entregas dentro do prazo.
+Scrum Master: Facilitei cerimônias do Scrum, promovendo a comunicação e o alinhamento contínuo da equipe. Utilizei o Trello como ferramenta de Kanban, configurando colunas específicas para representar os estágios do fluxo de trabalho (Em andamento, Em revisão, Concluído), o que permitiu uma visualização clara do progresso das tarefas. Para o Burndown Chart, empreguei o Excel para monitorar a velocidade da equipe e garantir que as entregas estivessem alinhadas ao planejamento da sprint.<br>
+Desenvolvimento: Participei na construção de páginas em HTML e estruturação semântica do conteúdo, seguindo boas práticas de organização e acessibilidade, visando facilitar a manutenção e a integração com CSS.<br>
+Melhoria de Processos: Contribuí para a melhoria contínua do fluxo de trabalho implementando práticas ágeis em cada Sprint, o que resultou em maior eficiência e entregas dentro dos prazos estipulados.
 
 ---
 
 ### Hard Skills
 
-- **HTML5 e CSS**: Desenvolvimento de páginas web estruturadas, com foco em responsividade e usabilidade.
-- **METODOLOGIA ÁGIL**: Aplicação de práticas ágeis para organização e execução do projeto.
+- **HTML5 e CSS**: Desenvolvimento de páginas web estruturadas, com foco em responsividade e usabilidade. (Faço/Uso com ajuda)
+- **METODOLOGIA ÁGIL**: Aplicação de práticas ágeis para organização e execução do projeto. (Faço/Uso com autonomia)
 
 ---
 
 ### Soft Skills
 
-- **Scrum Master**: Atuação como Scrum Master, conduzindo reuniões para alinhamento de expectativas e acompanhamento do progresso da equipe. Como no início do semestre o grupo ainda não se conhecia bem, realizei follow-ups diários para identificar possíveis dificuldades na compreensão das tarefas e oferecer suporte sempre que necessário.
-- **Trabalho em equipe**: Colaboração com desenvolvedores e técnicos para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, deixando horários definidos para isso, garantindo que as entregas não fossem comprometidas.
+- **Trabalho em equipe**: Colaboração com desenvolvedores e técnicos para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, deixando horários definidos para isso, garantindo que as entregas não fossem comprometidas. Quando algum colega tinha dificuldade, eu tentava entender o problema e ajudá-lo a concluir a tarefa.
 
 </details>
