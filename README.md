@@ -37,7 +37,7 @@ Frameworks e Bibliotecas: Uso de React.js para construção de interfaces dinâm
 - **Área de Atuação:** Empresa de Educação Remota.</br></br>
 
 **Professores responsáveis:** *Antônio Egydio & Jean Carlos Costa* </br></br>
-**Problema:** A organização enfrentava dificuldades na capacitação de seus colaboradores quanto à aplicação prática da metodologia ágil Scrum. Os treinamentos existentes eram teóricos e pouco interativos, resultando em baixo engajamento e dificuldade de replicar os métodos no dia a dia das equipes. Além disso, não havia uma forma estruturada de medir o aprendizado dos participantes, nem mecanismos para manter a documentação acessível e rastreável.</br>
+**Problema:** A organização enfrentava dificuldades na capacitação de seus colaboradores quanto à aplicação prática da metodologia ágil Scrum. Os treinamentos existentes eram teóricos e pouco interativos, resultando em baixo engajamento e dificuldade de replicar os métodos no dia a dia das equipes.</br>
 **Desafio:** Desenvolver um sistema web para apresentar os processos e artefatos da metodologia ágil Scrum, oferecendo conceitos, fundamentos e exemplos práticos para facilitar a compreensão e replicação dos métodos pelos usuários. O sistema também inclui um formulário de avaliação parcial e final, permitindo a mensuração do aprendizado. Todo o conteúdo deve ser disponibilizado de forma indireta (conhecimento adquirido e repassado pelos desenvolvedores), e a documentação do projeto deve ser mantida no GitHub para garantir a rastreabilidade e fidelização do cliente.</br>
 **Solução:** Criamos um site interativo para treinamento e disseminação da metodologia Scrum, permitindo que nosso cliente treine seus colaboradores na aplicação prática do framework ágil dentro da organização. A plataforma apresenta os conceitos essenciais do Scrum, estruturados com materiais didáticos e avaliações integradas para medir o progresso dos usuários.</br></br>
 
@@ -71,6 +71,20 @@ Melhoria de Processos: Contribuí para a melhoria contínua do fluxo de trabalho
 
 ### Soft Skills
 
-- **Trabalho em equipe**: Colaboração com desenvolvedores e técnicos para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, deixando horários definidos para isso, garantindo que as entregas não fossem comprometidas. Quando algum colega tinha dificuldade, eu tentava entender o problema e ajudá-lo a concluir a tarefa.
+- **Trabalho em equipe**: Colaboração com desenvolvedores para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, garantindo que as entregas não fossem comprometidas. Quando algum colega tinha dificuldade, eu tentava entender o problema e ajudá-lo a concluir a tarefa.
 
 </details>
+<details>
+<summary>2º Semestre</summary>
+</br>
+
+**Data:** *2° Semestre de  2023*</br></br>
+**Empresa:** *FATEC - São José dos Campos*</br>
+- **Área de Atuação:** Assistente Virtual.</br></br>
+
+**Professores responsáveis:** *Juliana Forin Pasquini Martinez e Giuliano Araujo Bertoti* </br></br>
+**Problema:** A organização enfrentava dificuldades na capacitação de seus colaboradores quanto à aplicação prática da metodologia ágil Scrum. Os treinamentos existentes eram teóricos e pouco interativos, resultando em baixo engajamento e dificuldade de replicar os métodos no dia a dia das equipes.</br>
+**Desafio:** Desenvolver um sistema web para apresentar os processos e artefatos da metodologia ágil Scrum, oferecendo conceitos, fundamentos e exemplos práticos para facilitar a compreensão e replicação dos métodos pelos usuários. O sistema também inclui um formulário de avaliação parcial e final, permitindo a mensuração do aprendizado. Todo o conteúdo deve ser disponibilizado de forma indireta (conhecimento adquirido e repassado pelos desenvolvedores), e a documentação do projeto deve ser mantida no GitHub para garantir a rastreabilidade e fidelização do cliente.</br>
+**Solução:** Criamos um site interativo para treinamento e disseminação da metodologia Scrum, permitindo que nosso cliente treine seus colaboradores na aplicação prática do framework ágil dentro da organização. A plataforma apresenta os conceitos essenciais do Scrum, estruturados com materiais didáticos e avaliações integradas para medir o progresso dos usuários.</br></br>
+
+**GitHub:** [BYTEBOOST](https://github.com/HEXABEES/API-SCRUM)</br></br>
