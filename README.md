@@ -83,8 +83,35 @@ Melhoria de Processos: Contribuí para a melhoria contínua do fluxo de trabalho
 - **Área de Atuação:** Assistente Virtual.</br></br>
 
 **Professores responsáveis:** *Juliana Forin Pasquini Martinez e Giuliano Araujo Bertoti* </br></br>
-**Problema:** A organização enfrentava dificuldades na capacitação de seus colaboradores quanto à aplicação prática da metodologia ágil Scrum. Os treinamentos existentes eram teóricos e pouco interativos, resultando em baixo engajamento e dificuldade de replicar os métodos no dia a dia das equipes.</br>
-**Desafio:** Desenvolver um sistema web para apresentar os processos e artefatos da metodologia ágil Scrum, oferecendo conceitos, fundamentos e exemplos práticos para facilitar a compreensão e replicação dos métodos pelos usuários. O sistema também inclui um formulário de avaliação parcial e final, permitindo a mensuração do aprendizado. Todo o conteúdo deve ser disponibilizado de forma indireta (conhecimento adquirido e repassado pelos desenvolvedores), e a documentação do projeto deve ser mantida no GitHub para garantir a rastreabilidade e fidelização do cliente.</br>
-**Solução:** Criamos um site interativo para treinamento e disseminação da metodologia Scrum, permitindo que nosso cliente treine seus colaboradores na aplicação prática do framework ágil dentro da organização. A plataforma apresenta os conceitos essenciais do Scrum, estruturados com materiais didáticos e avaliações integradas para medir o progresso dos usuários.</br></br>
+**Problema:** A análise de documentos escritos, especialmente longos ou técnicos, costuma ser demorada e exige esforço para identificar informações relevantes. Muitos usuários enfrentam dificuldade em extrair insights de forma eficiente, o que compromete a produtividade em estudos, pesquisas e processos de tomada de decisão.</br>
+**Desafio:** Desenvolver uma solução capaz de interpretar documentos automaticamente e gerar perguntas e respostas relevantes, mantendo a coerência com o conteúdo e garantindo agilidade sem comprometer a qualidade das informações extraídas.</br>
+**Solução:** Criamos um produto que utiliza inteligência artificial para simplificar a extração de insights de textos. A ferramenta permite que o usuário gere perguntas contextualizadas e obtenha respostas instantâneas com base no conteúdo do documento, tornando o processo de análise mais rápido, dinâmico e produtivo.</br></br>
 
-**GitHub:** [BYTEBOOST](https://github.com/HEXABEES/API-SCRUM)</br></br>
+**GitHub:** [BYTEBOOST](https://github.com/Byte-Boost/Duck)</br></br>
+
+### Tecnologias Utilizadas
+
+- **Java**: Responsável pela implementação da lógica de negócios e controle da aplicação, oferecendo uma estrutura robusta, orientada a objetos e com alto desempenho.
+- **MySQL**: Utilizado para o armazenamento e gerenciamento eficiente dos dados, garantindo integridade, segurança e facilidade de acesso às informações.
+- **JavaFX**: Desenvolvimento de uma interface gráfica interativa e moderna para desktop, proporcionando uma experiência de usuário fluida e intuitiva.
+  
+### Contribuições Pessoais
+
+Principais Contribuições:<br>
+Scrum Master: Facilitei cerimônias do Scrum, promovendo a comunicação e o alinhamento contínuo da equipe. Utilizei o Trello como ferramenta de Kanban, configurando colunas específicas para representar os estágios do fluxo de trabalho (Em andamento, Em revisão, Concluído), o que permitiu uma visualização clara do progresso das tarefas. Para o Burndown Chart, empreguei o Excel para monitorar a velocidade da equipe e garantir que as entregas estivessem alinhadas ao planejamento da sprint.<br>
+Desenvolvimento: Participei na construção de páginas em HTML e estruturação semântica do conteúdo, seguindo boas práticas de organização e acessibilidade, visando facilitar a manutenção e a integração com CSS.<br>
+Melhoria de Processos: Contribuí para a melhoria contínua do fluxo de trabalho implementando práticas ágeis em cada Sprint, o que resultou em maior eficiência e entregas dentro dos prazos estipulados.
+
+---
+
+### Hard Skills
+
+- **HTML5 e CSS**: Desenvolvimento de páginas web estruturadas, com foco em responsividade e usabilidade. (Faço/Uso com ajuda)
+- **METODOLOGIA ÁGIL**: Aplicação de práticas ágeis para organização e execução do projeto. (Faço/Uso com autonomia)
+
+---
+
+### Soft Skills
+
+- **Trabalho em equipe**: Colaboração com desenvolvedores para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, garantindo que as entregas não fossem comprometidas. Quando algum colega tinha dificuldade, eu tentava entender o problema e ajudá-lo a concluir a tarefa.
+
