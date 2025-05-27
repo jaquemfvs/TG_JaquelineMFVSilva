@@ -43,10 +43,6 @@ Frameworks e Bibliotecas: Uso de React.js para construção de interfaces dinâm
 
 **GitHub:** [HEXABEES](https://github.com/HEXABEES/API-SCRUM)</br></br>
 
-<div align="center">
-https://github.com/user-attachments/assets/dd925e9e-4339-4ac9-9ff9-c13f13a70b0a
-</div>
-
 ### Tecnologias Utilizadas
 
 - **HTML5 & CSS**: Desenvolvimento de uma interface web responsiva e intuitiva para facilitar a navegação e usabilidade.
@@ -71,7 +67,7 @@ Melhoria de Processos: Contribuí para a melhoria contínua do fluxo de trabalho
 
 ### Soft Skills
 
-- **Trabalho em equipe**: Colaboração com desenvolvedores para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, garantindo que as entregas não fossem comprometidas. Quando algum colega tinha dificuldade, eu tentava entender o problema e ajudá-lo a concluir a tarefa.
+Colaboração com desenvolvedores para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, garantindo que as entregas não fossem comprometidas. Quando algum colega tinha dificuldade, eu tentava entender o problema e ajudá-lo a concluir a tarefa.
 
 </details>
 <details>
@@ -98,22 +94,24 @@ Melhoria de Processos: Contribuí para a melhoria contínua do fluxo de trabalho
 ### Contribuições Pessoais
 
 Principais Contribuições:<br>
-Scrum Master: Facilitei cerimônias do Scrum, promovendo a comunicação e o alinhamento contínuo da equipe. Utilizei o Trello como ferramenta de Kanban, configurando colunas específicas para representar os estágios do fluxo de trabalho (Em andamento, Em revisão, Concluído), o que permitiu uma visualização clara do progresso das tarefas. Para o Burndown Chart, empreguei o Excel para monitorar a velocidade da equipe e garantir que as entregas estivessem alinhadas ao planejamento da sprint.<br>
-Desenvolvimento: Participei na construção de páginas em HTML e estruturação semântica do conteúdo, seguindo boas práticas de organização e acessibilidade, visando facilitar a manutenção e a integração com CSS.<br>
-Melhoria de Processos: Contribuí para a melhoria contínua do fluxo de trabalho implementando práticas ágeis em cada Sprint, o que resultou em maior eficiência e entregas dentro dos prazos estipulados.
+Neste projeto, atuei como responsável pela integração entre a aplicação e o banco de dados. Realizei a criação do banco de dados e sua associação à interface gráfica (GUI), garantindo a persistência e recuperação eficiente das informações. Implementei a lógica de conexão e aplicação do banco à plataforma, viabilizando funcionalidades essenciais baseadas em dados.
+
+Ajudei a desenvolver o sistema de confirmação de e-mail utilizando Java, contribuindo para a segurança e validação de novos usuários. Além disso, implementei o filtro de histórico, permitindo que cada usuário visualizasse apenas seus próprios registros ao estar logado, reforçando a personalização e proteção dos dados individuais.
 
 ---
 
 ### Hard Skills
 
-- **HTML5 e CSS**: Desenvolvimento de páginas web estruturadas, com foco em responsividade e usabilidade. (Faço/Uso com ajuda)
-- **METODOLOGIA ÁGIL**: Aplicação de práticas ágeis para organização e execução do projeto. (Faço/Uso com autonomia)
+- **Java**:Criação de funcionalidades como confirmação de e-mail e filtro de histórico por usuário. (Faço/Uso com ajuda)
+- **MYSql**: Criação do banco de dados e conexão com a aplicação. (Faço/Uso com ajuda)
 
 ---
 
 ### Soft Skills
 
-- **Trabalho em equipe**: Colaboração com desenvolvedores para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, garantindo que as entregas não fossem comprometidas. Quando algum colega tinha dificuldade, eu tentava entender o problema e ajudá-lo a concluir a tarefa.
+Durante o projeto, usei minha organização e proatividade para cuidar da parte do banco de dados e do sistema de confirmação de e-mail. Me comuniquei com o time para garantir que os dados fossem usados da forma certa na aplicação, ajudando a integrar o banco com as funcionalidades.
+
+Trabalhei bem em equipe, sempre ouvindo sugestões e a ajudando quando alguém precisava de apoio.
 
 </details>
 <details>
