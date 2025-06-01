@@ -94,9 +94,9 @@ Colaboração com desenvolvedores para garantir a integração eficiente dos com
 ### Contribuições Pessoais
 
 Principais Contribuições:<br>
-Neste projeto, atuei como responsável pela integração entre a aplicação e o banco de dados. Realizei a criação do banco de dados e sua associação à interface gráfica (GUI), garantindo a persistência e recuperação eficiente das informações. Implementei a lógica de conexão e aplicação do banco à plataforma, viabilizando funcionalidades essenciais baseadas em dados.
+Neste projeto, atuei na integração entre a aplicação e o banco de dados. Realizei a criação do banco de dados e sua associação à interface gráfica, garantindo a conservação e recuperação eficiente das informações. Implementei a lógica de conexão e aplicação do banco à plataforma, viabilizando funcionalidades essenciais baseadas em dados.
 
-Ajudei a desenvolver o sistema de confirmação de e-mail utilizando Java, contribuindo para a segurança e validação de novos usuários. Além disso, implementei o filtro de histórico, permitindo que cada usuário visualizasse apenas seus próprios registros ao estar logado, reforçando a personalização e proteção dos dados individuais.
+Ajudei a desenvolver o sistema de confirmação de e-mail utilizando Java, contribuindo para a segurança e validação de novos usuários. Além disso, implementei o filtro de histórico, permitindo que cada usuário visualizasse apenas seus próprios registros ao estar logado.
 
 ---
 
@@ -118,71 +118,76 @@ Trabalhei bem em equipe, sempre ouvindo sugestões e a ajudando quando alguém p
 <summary>3º Semestre</summary>
 </br>
 
-**Data:** *3° Semestre de  2023*</br></br>
-**Empresa:** *FATEC - São José dos Campos*</br>
-- **Área de Atuação:** Assistente Virtual.</br></br>
+**Data:** *1° Semestre de 2024*</br></br>
+**Empresa:** *PRO4TECH*</br>
+- **Área de Atuação:** Dashboard de Vendas.</br></br>
 
-**Professores responsáveis:** *Claudio e Gerson* </br></br>
-**Problema:** A análise de documentos escritos, especialmente longos ou técnicos, costuma ser demorada e exige esforço para identificar informações relevantes. Muitos usuários enfrentam dificuldade em extrair insights de forma eficiente, o que compromete a produtividade em estudos, pesquisas e processos de tomada de decisão.</br>
-**Desafio:** Desenvolver uma solução capaz de interpretar documentos automaticamente e gerar perguntas e respostas relevantes, mantendo a coerência com o conteúdo e garantindo agilidade sem comprometer a qualidade das informações extraídas.</br>
-**Solução:** Criamos um produto que utiliza inteligência artificial para simplificar a extração de insights de textos. A ferramenta permite que o usuário gere perguntas contextualizadas e obtenha respostas instantâneas com base no conteúdo do documento, tornando o processo de análise mais rápido, dinâmico e produtivo.</br></br>
+**Professores responsáveis:** *Claudio Etelvino de Lima e Fernando Masanori* </br></br>
+**Problema:** Usuários que lidam com grandes volumes de dados frequentemente enfrentam dificuldades para interpretá-los de maneira clara, rápida e eficaz. Ferramentas existentes muitas vezes são complexas, pouco intuitivas ou não oferecem a flexibilidade necessária para se adaptarem às necessidades específicas de diferentes perfis de usuários. Além disso, há uma demanda crescente por soluções que aliem alta performance, segurança e escalabilidade em tempo real.</br>
+**Desafio:** Desenvolver uma plataforma web inovadora que una usabilidade, personalização e alto desempenho. Isso exige criar uma interface intuitiva e flexível, além de integrar ferramentas avançadas de visualização e análise de dados. Ao mesmo tempo, é necessário garantir que o sistema seja seguro, escalável e capaz de processar grandes volumes de dados com rapidez e eficiência, sem comprometer a experiência do usuário.</br>
+**Solução:** O projeto Nebulon propõe a criação de uma plataforma web altamente funcional e personalizável, que oferece aos usuários uma experiência excepcional na exploração de dados complexos. Através de uma interface amigável e adaptável, o sistema disponibiliza ferramentas de visualização e análise capazes de gerar insights relevantes para decisões estratégicas. Tudo isso sustentado por uma infraestrutura robusta, segura e escalável, projetada para lidar com grandes volumes de dados em tempo real, garantindo inovação, desempenho e excelência em design.</br></br>
 
-**GitHub:** [BYTEBOOST](https://github.com/Byte-Boost/Duck)</br></br>
+**GitHub:** [BYTEBOOST](https://github.com/Byte-Boost/Nebulon)</br></br>
 
 ### Tecnologias Utilizadas
 
-- **Java**: Responsável pela implementação da lógica de negócios e controle da aplicação, oferecendo uma estrutura robusta, orientada a objetos e com alto desempenho.
-- **MySQL**: Utilizado para o armazenamento e gerenciamento eficiente dos dados, garantindo integridade, segurança e facilidade de acesso às informações.
-- **JavaFX**: Desenvolvimento de uma interface gráfica interativa e moderna para desktop, proporcionando uma experiência de usuário fluida e intuitiva.
+- **HTML5 & CSS**: Utilizados para o desenvolvimento de uma interface web responsiva, acessível e visualmente atrativa, garantindo uma navegação fluida e uma excelente experiência para o usuário.
+- **MySQL**: Sistema de gerenciamento de banco de dados utilizado para armazenar e organizar as informações da aplicação de forma estruturada, segura e eficiente.
+- **TypeScript**: Utilizado em conjunto com React e Node.js para garantir maior segurança e qualidade no código, com tipagem estática que facilita a manutenção e escalabilidade do sistema.
+- **Node.js**: Responsável pela construção do backend da aplicação, oferecendo alta performance no processamento de dados e garantindo uma comunicação eficiente com o banco de dados.
+- **React**: Empregado no desenvolvimento da interface dinâmica e interativa, proporcionando uma experiência de usuário moderna e reativa, com atualização em tempo real dos componentes da aplicação.
   
 ### Contribuições Pessoais
 
 Principais Contribuições:<br>
-Scrum Master: Facilitei cerimônias do Scrum, promovendo a comunicação e o alinhamento contínuo da equipe. Utilizei o Trello como ferramenta de Kanban, configurando colunas específicas para representar os estágios do fluxo de trabalho (Em andamento, Em revisão, Concluído), o que permitiu uma visualização clara do progresso das tarefas. Para o Burndown Chart, empreguei o Excel para monitorar a velocidade da equipe e garantir que as entregas estivessem alinhadas ao planejamento da sprint.<br>
-Desenvolvimento: Participei na construção de páginas em HTML e estruturação semântica do conteúdo, seguindo boas práticas de organização e acessibilidade, visando facilitar a manutenção e a integração com CSS.<br>
-Melhoria de Processos: Contribuí para a melhoria contínua do fluxo de trabalho implementando práticas ágeis em cada Sprint, o que resultou em maior eficiência e entregas dentro dos prazos estipulados.
+No projeto, participei da criação do banco de dados, pensando em como organizar as informações de forma clara para que o sistema funcionasse bem. Também ajudei a ajustar o arquivo do Excel, colocando nomes mais fáceis de entender nas colunas, o que facilitou a importação dos dados para o sistema.</br>
+Desenvolvi um formulário para que os usuários pudessem cadastrar novos produtos de forma prática. Além disso, adicionei uma parte na tabela de vendas que mostra a soma total do que foi vendido e, se necessário, também o valor das comissões.</br>
+Para melhorar a navegação, coloquei paginação nas tabelas, dividindo os dados em páginas. Também usei listas de seleção (selects) no cadastro de comissão, para que os usuários escolhessem as opções prontas, deixando o preenchimento mais rápido e com menos erros.
 
 ---
 
 ### Hard Skills
 
-- **HTML5 e CSS**: Desenvolvimento de páginas web estruturadas, com foco em responsividade e usabilidade. (Faço/Uso com ajuda)
-- **METODOLOGIA ÁGIL**: Aplicação de práticas ágeis para organização e execução do projeto. (Faço/Uso com autonomia)
+- **MySQL**: Criação e organização do banco de dados para guardar as informações do sistema. (Faço/Uso com ajuda)
+- **EXCEL**: Padronização dos nomes das colunas para facilitar a leitura e o uso dos dados. (Faço/Uso com autonomia)
+- **HTML5/CSS/TypeScript**: Criação de formulários, tabelas com paginação e somatória de vendas na tela. (Faço/Uso com ajuda)
 
 ---
 
 ### Soft Skills
 
-- **Trabalho em equipe**: Colaboração com desenvolvedores para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, garantindo que as entregas não fossem comprometidas. Quando algum colega tinha dificuldade, eu tentava entender o problema e ajudá-lo a concluir a tarefa.
+Durante o projeto, me comuniquei com a equipe para organizar melhor os dados, sugerindo nomes mais claros no Excel e ajudando na criação do banco de dados. Também colaborei no desenvolvimento da parte visual do sistema, criando formulários e tabelas que mostram as vendas de forma simples.</br>
+Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha dúvidas.
 
 </details>
 <details>
 <summary>4º Semestre</summary>
 </br>
 
-**Data:** *4° Semestre de  2023*</br></br>
-**Empresa:** *FATEC - São José dos Campos*</br>
-- **Área de Atuação:** Assistente Virtual.</br></br>
+**Data:** *2° Semestre de  2024*</br></br>
+**Empresa:** *JJM LOG*</br>
+- **Área de Atuação:** .</br></br>
 
-**Professores responsáveis:** *Juliana Forin Pasquini Martinez e Sabha* </br></br>
-**Problema:** A análise de documentos escritos, especialmente longos ou técnicos, costuma ser demorada e exige esforço para identificar informações relevantes. Muitos usuários enfrentam dificuldade em extrair insights de forma eficiente, o que compromete a produtividade em estudos, pesquisas e processos de tomada de decisão.</br>
-**Desafio:** Desenvolver uma solução capaz de interpretar documentos automaticamente e gerar perguntas e respostas relevantes, mantendo a coerência com o conteúdo e garantindo agilidade sem comprometer a qualidade das informações extraídas.</br>
-**Solução:** Criamos um produto que utiliza inteligência artificial para simplificar a extração de insights de textos. A ferramenta permite que o usuário gere perguntas contextualizadas e obtenha respostas instantâneas com base no conteúdo do documento, tornando o processo de análise mais rápido, dinâmico e produtivo.</br></br>
+**Professores responsáveis:** *Juliana Forin Pasquini Martinez e fabiano Sabha* </br></br>
+**Problema:** Muitas empresas enfrentam dificuldades para integrar a comunicação entre setores, organizar documentos, acompanhar o desempenho das equipes e gerenciar atividades como viagens e ordens de serviço. A falta de centralização dessas informações e ferramentas pode causar atrasos, retrabalho e baixa produtividade.</br>
+**Desafio:** Criar uma plataforma única que reúna, de forma simples e eficiente, tudo o que os setores da empresa precisam: comunicação interna, gestão de documentos, acompanhamento de desempenho, ordens de serviço e ferramentas colaborativas.</br>
+**Solução:** O WeCollab propõe uma plataforma integrada que centraliza as principais funções da rotina empresarial. Com uma interface responsiva e intuitiva, oferece acesso rápido a documentos, dashboards de desempenho, agenda, chat, roteiros de viagem e portal de arquivos pessoais dos funcionários. A plataforma é segura, adaptável e pode ser integrada a outros sistemas, promovendo uma comunicação mais eficiente e melhor organização interna.</br></br>
 
-**GitHub:** [BYTEBOOST](https://github.com/Byte-Boost/Duck)</br></br>
+**GitHub:** [BYTEBOOST](https://github.com/Byte-Boost/WeCollab)</br></br>
 
 ### Tecnologias Utilizadas
 
-- **Java**: Responsável pela implementação da lógica de negócios e controle da aplicação, oferecendo uma estrutura robusta, orientada a objetos e com alto desempenho.
-- **MySQL**: Utilizado para o armazenamento e gerenciamento eficiente dos dados, garantindo integridade, segurança e facilidade de acesso às informações.
-- **JavaFX**: Desenvolvimento de uma interface gráfica interativa e moderna para desktop, proporcionando uma experiência de usuário fluida e intuitiva.
+- **HTML5 & CSS**: Utilizados para o desenvolvimento de uma interface web responsiva, acessível e visualmente atrativa, garantindo uma navegação fluida e uma excelente experiência para o usuário.
+- **MySQL**: Sistema de gerenciamento de banco de dados utilizado para armazenar e organizar as informações da aplicação de forma estruturada, segura e eficiente.
+- **TypeScript**: Utilizado em conjunto com React e Node.js para garantir maior segurança e qualidade no código, com tipagem estática que facilita a manutenção e escalabilidade do sistema.
+- **Node.js**: Responsável pela construção do backend da aplicação, oferecendo alta performance no processamento de dados e garantindo uma comunicação eficiente com o banco de dados.
+- **React**: Empregado no desenvolvimento da interface dinâmica e interativa, proporcionando uma experiência de usuário moderna e reativa, com atualização em tempo real dos componentes da aplicação.
   
 ### Contribuições Pessoais
 
 Principais Contribuições:<br>
-Scrum Master: Facilitei cerimônias do Scrum, promovendo a comunicação e o alinhamento contínuo da equipe. Utilizei o Trello como ferramenta de Kanban, configurando colunas específicas para representar os estágios do fluxo de trabalho (Em andamento, Em revisão, Concluído), o que permitiu uma visualização clara do progresso das tarefas. Para o Burndown Chart, empreguei o Excel para monitorar a velocidade da equipe e garantir que as entregas estivessem alinhadas ao planejamento da sprint.<br>
-Desenvolvimento: Participei na construção de páginas em HTML e estruturação semântica do conteúdo, seguindo boas práticas de organização e acessibilidade, visando facilitar a manutenção e a integração com CSS.<br>
-Melhoria de Processos: Contribuí para a melhoria contínua do fluxo de trabalho implementando práticas ágeis em cada Sprint, o que resultou em maior eficiência e entregas dentro dos prazos estipulados.
+No projeto, ajudei na organização do banco de dados criando o modelo UML, que serve para documentar e entender melhor como os dados estão conectados. Também trabalhei criando rotas que permitem o usuário mudar a senha ou resetar para a senha padrão, quando necessário.</br>
+Além disso, fiz melhorias no banco de dados, deixando ele mais organizado e adequado às novas necessidades do sistema. Também implementei a paginação dos tickets, para que os dados fossem exibidos de forma mais limpa e fácil de visualizar. No final, colaborei com a criação do dashboard no Figma, ajudando a planejar o visual da plataforma.
 
 ---
 
