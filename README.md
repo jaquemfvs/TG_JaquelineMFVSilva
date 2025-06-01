@@ -187,61 +187,67 @@ Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha
 
 Principais Contribuições:<br>
 No projeto, ajudei na organização do banco de dados criando o modelo UML, que serve para documentar e entender melhor como os dados estão conectados. Também trabalhei criando rotas que permitem o usuário mudar a senha ou resetar para a senha padrão, quando necessário.</br>
-Além disso, fiz melhorias no banco de dados, deixando ele mais organizado e adequado às novas necessidades do sistema. Também implementei a paginação dos tickets, para que os dados fossem exibidos de forma mais limpa e fácil de visualizar. No final, colaborei com a criação do dashboard no Figma, ajudando a planejar o visual da plataforma.
+Fiz melhorias no banco de dados, deixando ele mais organizado e adequado às novas necessidades do sistema. Também implementei a paginação dos tickets, para que os dados fossem exibidos de forma mais limpa e fácil de visualizar. 
 
 ---
 
 ### Hard Skills
 
-- **HTML5 e CSS**: Desenvolvimento de páginas web estruturadas, com foco em responsividade e usabilidade. (Faço/Uso com ajuda)
-- **METODOLOGIA ÁGIL**: Aplicação de práticas ágeis para organização e execução do projeto. (Faço/Uso com autonomia)
+- **MySQL**: Remodelagem do banco de dados e criação de modelo UML para organizar e documentar as informações. (Faço/Uso com ajuda)
+- **Node.js/TypeScript**: Criação de rotas no backend para redefinir e mudar senhas de usuários. (Faço/Uso com ajuda)
+- **React**: Implementação da paginação dos tickets para facilitar a visualização dos dados. (Faço/Uso com ajuda)
+- **HTML5/CSS**: Ajustes visuais e apoio no desenvolvimento da interface do sistema. (Faço/Uso com ajuda)
 
 ---
 
 ### Soft Skills
 
-- **Trabalho em equipe**: Colaboração com desenvolvedores para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, garantindo que as entregas não fossem comprometidas. Quando algum colega tinha dificuldade, eu tentava entender o problema e ajudá-lo a concluir a tarefa.
+- Durante o projeto, colaborei com a equipe explicando como o banco de dados estava organizado e ajudando a documentar isso com o modelo UML. Também compartilhei ideias para melhorar a estrutura do sistema, como na parte de senha e na exibição dos tickets com paginação.</br>
+Trabalhei de forma organizada e em equipe, ajudando a manter o sistema mais claro e fácil de entender tanto no backend quanto na parte visual.
 
 </details>
 <details>
 <summary>5º Semestre</summary>
 </br>
 
-**Data:** *5° Semestre de  2023*</br></br>
+**Data:** *1° Semestre de  2025*</br></br>
 **Empresa:** *GSW*</br>
 - **Área de Atuação:** Aplicativo para reembolso de funcionários.</br></br>
 
-**Professores responsáveis:** *Gerson e Ronaldo* </br></br>
-**Problema:** A análise de documentos escritos, especialmente longos ou técnicos, costuma ser demorada e exige esforço para identificar informações relevantes. Muitos usuários enfrentam dificuldade em extrair insights de forma eficiente, o que compromete a produtividade em estudos, pesquisas e processos de tomada de decisão.</br>
-**Desafio:** Desenvolver uma solução capaz de interpretar documentos automaticamente e gerar perguntas e respostas relevantes, mantendo a coerência com o conteúdo e garantindo agilidade sem comprometer a qualidade das informações extraídas.</br>
-**Solução:** Criamos um produto que utiliza inteligência artificial para simplificar a extração de insights de textos. A ferramenta permite que o usuário gere perguntas contextualizadas e obtenha respostas instantâneas com base no conteúdo do documento, tornando o processo de análise mais rápido, dinâmico e produtivo.</br></br>
+**Professores responsáveis:** *Gerson da Penha Neto e Ronaldo Emerick Moreira* </br></br>
+**Problema:** Muitas empresas e colaboradores enfrentam dificuldades com processos manuais e demorados para solicitar e aprovar reembolsos. Isso gera atrasos, falta de controle, erros e pouca transparência na gestão de despesas corporativas.</br>
+**Desafio:** Desenvolver um aplicativo móvel que torne o processo de reembolso mais rápido, simples e acessível. A aplicação precisa ser fácil de usar, funcionar bem em diferentes dispositivos e se adaptar às mudanças e necessidades dos usuários e da empresa, garantindo eficiência e controle financeiro.</br>
+**Solução:** O ExpenseFlow é uma aplicação móvel criada para facilitar a requisição e gestão de reembolsos corporativos. Com uma interface intuitiva e responsiva, permite que os usuários façam solicitações com praticidade e que as empresas aprovem com agilidade. Desenvolvido com a metodologia ágil Scrum, o projeto garante entregas contínuas e melhorias constantes, promovendo mais transparência, produtividade e controle nas finanças da empresa.</br></br>
 
-**GitHub:** [BYTEBOOST](https://github.com/Byte-Boost/Duck)</br></br>
+**GitHub:** [BYTEBOOST](https://github.com/Byte-Boost/ExpenseFlow)</br></br>
 
 ### Tecnologias Utilizadas
 
-- **Java**: Responsável pela implementação da lógica de negócios e controle da aplicação, oferecendo uma estrutura robusta, orientada a objetos e com alto desempenho.
-- **MySQL**: Utilizado para o armazenamento e gerenciamento eficiente dos dados, garantindo integridade, segurança e facilidade de acesso às informações.
-- **JavaFX**: Desenvolvimento de uma interface gráfica interativa e moderna para desktop, proporcionando uma experiência de usuário fluida e intuitiva.
+- **HTML5 & CSS**: Utilizados para criar uma interface web responsiva e intuitiva, garantindo uma navegação fluida e uma boa experiência visual em diferentes dispositivos.
+- **MongoDB**:Banco de dados NoSQL utilizado para armazenar dados não estruturados ou flexíveis, oferecendo agilidade e escalabilidade em tempo real.
+- **Android Studio**:Ferramenta utilizada para o desenvolvimento da versão móvel da aplicação, possibilitando a criação de uma interface nativa para dispositivos Android, com foco em usabilidade e desempenho.
+- **React**: Aplicado no desenvolvimento da interface web dinâmica e interativa, oferecendo uma experiência moderna e reativa para os usuários.
+- **Node.js**: Responsável pelo backend da aplicação, permitindo o processamento eficiente das requisições e a integração com os bancos de dados.
+- **TypeScript**: Usado em conjunto com React e Node.js para aumentar a segurança e a qualidade do código, por meio de tipagem estática e melhor organização.
   
 ### Contribuições Pessoais
 
 Principais Contribuições:<br>
-Scrum Master: Facilitei cerimônias do Scrum, promovendo a comunicação e o alinhamento contínuo da equipe. Utilizei o Trello como ferramenta de Kanban, configurando colunas específicas para representar os estágios do fluxo de trabalho (Em andamento, Em revisão, Concluído), o que permitiu uma visualização clara do progresso das tarefas. Para o Burndown Chart, empreguei o Excel para monitorar a velocidade da equipe e garantir que as entregas estivessem alinhadas ao planejamento da sprint.<br>
-Desenvolvimento: Participei na construção de páginas em HTML e estruturação semântica do conteúdo, seguindo boas práticas de organização e acessibilidade, visando facilitar a manutenção e a integração com CSS.<br>
-Melhoria de Processos: Contribuí para a melhoria contínua do fluxo de trabalho implementando práticas ágeis em cada Sprint, o que resultou em maior eficiência e entregas dentro dos prazos estipulados.
+No projeto, trabalhei na parte de backend (por trás do sistema), criando uma rota chamada “/user/register” para que novos usuários pudessem se cadastrar.</br>
+Também desenvolvi um filtro de reembolsos, que permite buscar os dados por projeto e por status, facilitando a organização das informações. Fiz uma melhoria no sistema de reembolso, adicionando um campo para explicar o motivo da avaliação, deixando o processo mais claro e completo para os usuários.
 
 ---
 
 ### Hard Skills
 
-- **HTML5 e CSS**: Desenvolvimento de páginas web estruturadas, com foco em responsividade e usabilidade. (Faço/Uso com ajuda)
-- **METODOLOGIA ÁGIL**: Aplicação de práticas ágeis para organização e execução do projeto. (Faço/Uso com autonomia)
+- **Node.js/TypeScript**: Criação de rotas no backend, como o cadastro de usuários e filtros de reembolso por projeto e status. (Faço/Uso com ajuda)
+- **Android Studio**: Participação no desenvolvimento da versão mobile do sistema. (Faço/Uso com ajuda)
 
 ---
 
 ### Soft Skills
 
-- **Trabalho em equipe**: Colaboração com desenvolvedores para garantir a integração eficiente dos componentes do projeto. Realizava minhas tarefas e, quando necessário, solicitava apoio da equipe. Além disso, estava sempre disponível para auxiliar os colegas, garantindo que as entregas não fossem comprometidas. Quando algum colega tinha dificuldade, eu tentava entender o problema e ajudá-lo a concluir a tarefa.
+Durante o projeto, colaborei com a equipe criando soluções no backend, como o cadastro de usuários e filtros de reembolso. Sempre me comuniquei com clareza para explicar minhas ideias e entender o que era necessário melhorar.</br>
+Trabalhei em grupo, sugerindo melhorias como o campo de razão da avaliação no reembolso.
 
 </details>
