@@ -122,7 +122,6 @@ Trabalhei bem em equipe, sempre ouvindo sugestões e a ajudando quando alguém p
 **Empresa:** *PRO4TECH*</br>
 - **Área de Atuação:** Empresa de Tecnologia.</br></br>
 
-**Professores responsáveis:** *Claudio Etelvino de Lima e Fernando Masanori* </br></br>
 **Problema:** Usuários que lidam com volumes de dados frequentemente enfrentam dificuldades para interpretá-los de maneira clara, rápida e eficaz, dificultando os insights. Ferramentas existentes muitas vezes são complexas, pouco intuitivas ou não oferecem a flexibilidade necessária para se adaptarem às necessidades específicas de diferentes perfis de usuários.</br>
 **Desafio:** Desenvolver uma plataforma web inovadora que una usabilidade, personalização e alto desempenho. Isso exige criar uma interface intuitiva e flexível, além de integrar ferramentas avançadas de visualização e análise de dados. Ao mesmo tempo, é necessário garantir que o sistema seja seguro, escalável e capaz de processar grandes volumes de dados com rapidez e eficiência, sem comprometer a experiência do usuário.</br>
 **Solução:** O projeto Nebulon propõe a criação de uma plataforma web altamente funcional e personalizável, que oferece aos usuários uma experiência excepcional na exploração de dados transformando em Dashboard. Através de uma interface amigável e adaptável, o sistema disponibiliza ferramentas de visualização e análise capazes de gerar insights relevantes para decisões estratégicas. Tudo isso sustentado por uma infraestrutura robusta, segura e escalável, projetada para lidar com dados em tempo real, garantindo inovação, desempenho e excelência em design.</br></br>
@@ -142,7 +141,8 @@ Trabalhei bem em equipe, sempre ouvindo sugestões e a ajudando quando alguém p
 Principais Contribuições:<br>
 No projeto, participei da criação do banco de dados, pensando em como organizar as informações de forma clara para que o sistema funcionasse bem. Também ajudei a ajustar o arquivo do Excel, colocando nomes mais fáceis de entender nas colunas, o que facilitou a importação dos dados para o sistema.</br>
 Desenvolvi um formulário para que os usuários pudessem cadastrar novos produtos de forma prática. Além disso, adicionei uma parte na tabela de vendas que mostra a soma total do que foi vendido e, se necessário, também o valor das comissões.</br>
-Para melhorar a navegação, coloquei paginação nas tabelas, dividindo os dados em páginas. Também usei listas de seleção (selects) no cadastro de comissão, para que os usuários escolhessem as opções prontas, deixando o preenchimento mais rápido e com menos erros.
+Para melhorar a navegação, coloquei paginação nas tabelas, dividindo os dados em páginas. Também usei listas de seleção (selects) no cadastro de comissão, para que os usuários escolhessem as opções prontas, deixando o preenchimento mais rápido e com menos erros.</br>
+Atuei como Scrum Master, ajudando a organizar as tarefas da equipe e facilitando a comunicação entre os membros, garantindo que o desenvolvimento seguisse de forma ágil e eficiente.
 
 ---
 
@@ -157,7 +157,7 @@ Para melhorar a navegação, coloquei paginação nas tabelas, dividindo os dado
 ### Soft Skills
 
 Durante o projeto, me comuniquei com a equipe para organizar melhor os dados, sugerindo nomes mais claros no Excel e ajudando na criação do banco de dados. Também colaborei no desenvolvimento da parte visual do sistema, criando formulários e tabelas que mostram as vendas de forma simples.</br>
-Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha dúvidas.
+Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha dúvidas. Como Scrum Master, incentivei a organização das tarefas, promovendo a colaboração entre os integrantes e garantindo que o time mantivesse um bom ritmo de trabalho. Essa experiência fortaleceu minhas habilidades de comunicação, liderança e organização.
 
 </details>
 <details>
