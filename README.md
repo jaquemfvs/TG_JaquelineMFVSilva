@@ -22,7 +22,7 @@ Trabalho de Graduação - ADS - FATEC
 
 ## Meus Principais Conhecimentos 
 Tenho grande interesse por análise de dados e experiência em desenvolvimento full-stack, abrangendo tanto front-end quanto back-end. No decorrer da minha formação e experiência profissional, trabalhei com diversas tecnologias, destacando-se:<br>
-Python: Python: Aplicado na manipulação de dados, desenvolvimento de scripts e construção de lógica de programação, com destaque para projetos voltados à Análise de Dados Públicos, utilizando bibliotecas como Pandas e Matplotlib para explorar, limpar e visualizar informações extraídas de fontes governamentais e bases abertas.<br>
+Python: Aplicado na manipulação de dados, desenvolvimento de scripts e construção de lógica de programação, com destaque para projetos voltados à Análise de Dados Públicos, utilizando bibliotecas como Pandas e Matplotlib para explorar, limpar e visualizar informações extraídas de fontes governamentais e bases abertas.<br>
 SQL: Consulta e manipulação de dados em bancos relacionais como MySQL.<br>
 HTML, CSS e JavaScript: Desenvolvimento de interfaces responsivas, com foco em acessibilidade e experiência do usuário.<br>
 Frameworks e Bibliotecas: Uso de React.js para construção de interfaces dinâmicas.<br>
@@ -83,7 +83,7 @@ Colaboração com desenvolvedores para garantir a integração eficiente dos com
 **Desafio:** Desenvolver uma solução capaz de interpretar documentos automaticamente e gerar perguntas e respostas relevantes, mantendo a coerência com o conteúdo e garantindo agilidade sem comprometer a qualidade das informações extraídas.</br>
 **Solução:** Criamos um produto que utiliza inteligência artificial para simplificar a extração de insights de textos. A ferramenta permite que o usuário gere perguntas contextualizadas e obtenha respostas instantâneas com base no conteúdo do documento, tornando o processo de análise mais rápido, dinâmico e produtivo.</br></br>
 
-**GitHub:** [BYTEBOOST](https://github.com/Byte-Boost/Duck)</br></br>
+**GitHub:** [BYTEBOOST - Duck](https://github.com/Byte-Boost/Duck)</br></br>
 
 ### Tecnologias Utilizadas
 
@@ -127,7 +127,7 @@ Trabalhei bem em equipe, sempre ouvindo sugestões e a ajudando quando alguém p
 **Desafio:** Desenvolver uma plataforma web inovadora que una usabilidade, personalização e alto desempenho. Isso exige criar uma interface intuitiva e flexível, além de integrar ferramentas avançadas de visualização e análise de dados. Ao mesmo tempo, é necessário garantir que o sistema seja seguro, escalável e capaz de processar grandes volumes de dados com rapidez e eficiência, sem comprometer a experiência do usuário.</br>
 **Solução:** O projeto Nebulon propõe a criação de uma plataforma web altamente funcional e personalizável, que oferece aos usuários uma experiência excepcional na exploração de dados transformando em Dashboard. Através de uma interface amigável e adaptável, o sistema disponibiliza ferramentas de visualização e análise capazes de gerar insights relevantes para decisões estratégicas. Tudo isso sustentado por uma infraestrutura robusta, segura e escalável, projetada para lidar com dados em tempo real, garantindo inovação, desempenho e excelência em design.</br></br>
 
-**GitHub:** [BYTEBOOST](https://github.com/Byte-Boost/Nebulon)</br></br>
+**GitHub:** [BYTEBOOST- Nebulon](https://github.com/Byte-Boost/Nebulon)</br></br>
 
 ### Tecnologias Utilizadas
 
@@ -166,14 +166,14 @@ Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha
 
 **Data:** *2° Semestre de  2024*</br></br>
 **Empresa:** *JJM LOG*</br>
-- **Área de Atuação:** .</br></br>
+- **Área de Atuação:** Plataforma de integração</br></br>
 
-**Professores responsáveis:** *Juliana Forin Pasquini Martinez e fabiano Sabha* </br></br>
+**Professores responsáveis:** *Juliana Forin Pasquini Martinez e Fabiano Sabha* </br></br>
 **Problema:** Muitas empresas enfrentam dificuldades para integrar a comunicação entre setores, organizar documentos, acompanhar o desempenho das equipes e gerenciar atividades como viagens e ordens de serviço. A falta de centralização dessas informações e ferramentas pode causar atrasos, retrabalho e baixa produtividade.</br>
 **Desafio:** Criar uma plataforma única que reúna, de forma simples e eficiente, tudo o que os setores da empresa precisam: comunicação interna, gestão de documentos, acompanhamento de desempenho, ordens de serviço e ferramentas colaborativas.</br>
 **Solução:** O WeCollab propõe uma plataforma integrada que centraliza as principais funções da rotina empresarial. Com uma interface responsiva e intuitiva, oferece acesso rápido a documentos, dashboards de desempenho, agenda, chat, roteiros de viagem e portal de arquivos pessoais dos funcionários. A plataforma é segura, adaptável e pode ser integrada a outros sistemas, promovendo uma comunicação mais eficiente e melhor organização interna.</br></br>
 
-**GitHub:** [BYTEBOOST](https://github.com/Byte-Boost/WeCollab)</br></br>
+**GitHub:** [BYTEBOOST - WeCollab](https://github.com/Byte-Boost/WeCollab)</br></br>
 
 ### Tecnologias Utilizadas
 
@@ -219,13 +219,13 @@ Trabalhei de forma organizada e em equipe, ajudando a manter o sistema mais clar
 **Desafio:** Desenvolver um aplicativo móvel que torne o processo de reembolso mais rápido, simples e acessível. A aplicação precisa ser fácil de usar, funcionar bem em diferentes dispositivos e se adaptar às mudanças e necessidades dos usuários e da empresa, garantindo eficiência e controle financeiro.</br>
 **Solução:** O ExpenseFlow é uma aplicação móvel criada para facilitar a requisição e gestão de reembolsos corporativos. Com uma interface intuitiva e responsiva, permite que os usuários façam solicitações com praticidade e que as empresas aprovem com agilidade. Desenvolvido com a metodologia ágil Scrum, o projeto garante entregas contínuas e melhorias constantes, promovendo mais transparência, produtividade e controle nas finanças da empresa.</br></br>
 
-**GitHub:** [BYTEBOOST](https://github.com/Byte-Boost/ExpenseFlow)</br></br>
+**GitHub:** [BYTEBOOST - ExpenseFlow](https://github.com/Byte-Boost/ExpenseFlow)</br></br>
 
 ### Tecnologias Utilizadas
 
 - **HTML5 & CSS**: Utilizados para criar uma interface web responsiva e intuitiva, garantindo uma navegação fluida e uma boa experiência visual em diferentes dispositivos.
-- **MongoDB**:Banco de dados NoSQL utilizado para armazenar dados não estruturados ou flexíveis, oferecendo agilidade e escalabilidade em tempo real.
-- **Android Studio**:Ferramenta utilizada para o desenvolvimento da versão móvel da aplicação, possibilitando a criação de uma interface nativa para dispositivos Android, com foco em usabilidade e desempenho.
+- **MongoDB**: Banco de dados NoSQL utilizado para armazenar dados não estruturados ou flexíveis, oferecendo agilidade e escalabilidade em tempo real.
+- **Android Studio**: Ferramenta utilizada para o desenvolvimento da versão móvel da aplicação, possibilitando a criação de uma interface nativa para dispositivos Android, com foco em usabilidade e desempenho.
 - **React**: Aplicado no desenvolvimento da interface web dinâmica e interativa, oferecendo uma experiência moderna e reativa para os usuários.
 - **Node.js**: Responsável pelo backend da aplicação, permitindo o processamento eficiente das requisições e a integração com os bancos de dados.
 - **TypeScript**: Usado em conjunto com React e Node.js para aumentar a segurança e a qualidade do código, por meio de tipagem estática e melhor organização.
@@ -233,7 +233,7 @@ Trabalhei de forma organizada e em equipe, ajudando a manter o sistema mais clar
 ### Contribuições Pessoais
 
 Principais Contribuições:<br>
-No projeto, trabalhei na parte de backend (por trás do sistema), criando uma rota chamada “/user/register” para que novos usuários pudessem se cadastrar.</br>
+No projeto, trabalhei na parte de backend, criando uma rota chamada “/user/register” para que novos usuários pudessem se cadastrar.</br>
 Também desenvolvi um filtro de reembolsos, que permite buscar os dados por projeto e por status, facilitando a organização das informações. Fiz uma melhoria no sistema de reembolso, adicionando um campo para explicar o motivo da avaliação, deixando o processo mais claro e completo para os usuários.
 
 ---
