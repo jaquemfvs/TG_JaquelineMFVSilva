@@ -94,8 +94,7 @@ Colaboração com desenvolvedores para garantir a integração eficiente dos com
 ### Contribuições Pessoais
 
 Principais Contribuições:<br>
-Neste projeto, atuei na integração entre a aplicação e o banco de dados. Realizei a criação do banco de dados e sua associação à interface gráfica, garantindo a conservação e recuperação eficiente das informações. Implementei a lógica de conexão e aplicação do banco à plataforma, viabilizando funcionalidades essenciais baseadas em dados.
-
+Neste projeto, atuei na integração entre a aplicação e o banco de dados. Realizei a criação do banco de dados e sua associação à interface gráfica, garantindo a conservação e recuperação eficiente das informações. Implementei a lógica de conexão e aplicação do banco à plataforma, viabilizando funcionalidades essenciais baseadas em dados.</br>
 Ajudei a desenvolver o sistema de confirmação de e-mail utilizando Java, contribuindo para a segurança e validação de novos usuários. Além disso, implementei o filtro de histórico, permitindo que cada usuário visualizasse apenas seus próprios registros ao estar logado.
 
 ---
@@ -109,8 +108,7 @@ Ajudei a desenvolver o sistema de confirmação de e-mail utilizando Java, contr
 
 ### Soft Skills
 
-Durante o projeto, usei minha organização e proatividade para cuidar da parte do banco de dados e do sistema de confirmação de e-mail. Me comuniquei com o time para garantir que os dados fossem usados da forma certa na aplicação, ajudando a integrar o banco com as funcionalidades.
-
+Durante o projeto, usei minha organização e proatividade para cuidar da parte do banco de dados e do sistema de confirmação de e-mail. Me comuniquei com o time para garantir que os dados fossem usados da forma certa na aplicação, ajudando a integrar o banco com as funcionalidades.</br>
 Trabalhei bem em equipe, sempre ouvindo sugestões e a ajudando quando alguém precisava de apoio.
 
 </details>
@@ -142,7 +140,7 @@ Principais Contribuições:<br>
 No projeto, participei da criação do banco de dados, pensando em como organizar as informações de forma clara para que o sistema funcionasse bem. Também ajudei a ajustar o arquivo do Excel, colocando nomes mais fáceis de entender nas colunas, o que facilitou a importação dos dados para o sistema.</br>
 Desenvolvi um formulário para que os usuários pudessem cadastrar novos produtos de forma prática. Além disso, adicionei uma parte na tabela de vendas que mostra a soma total do que foi vendido e, se necessário, também o valor das comissões.</br>
 Para melhorar a navegação, coloquei paginação nas tabelas, dividindo os dados em páginas. Também usei listas de seleção (selects) no cadastro de comissão, para que os usuários escolhessem as opções prontas, deixando o preenchimento mais rápido e com menos erros.</br>
-Atuei como Scrum Master, ajudando a organizar as tarefas da equipe e facilitando a comunicação entre os membros, garantindo que o desenvolvimento seguisse de forma ágil e eficiente.
+Atuei como Scrum Master, organizando as tarefas da equipe no Trello, para facilitar a visualização das tarefas que foras ou não realizadas, facilitei a comunicação entre os membros, garantindo que o desenvolvimento seguisse de forma ágil e eficiente. Com o gráfico do Burndown, acompanhava o ritmo das entregas, verificando se algum membro da equipe precisava de ajuda.
 
 ---
 
@@ -157,7 +155,7 @@ Atuei como Scrum Master, ajudando a organizar as tarefas da equipe e facilitando
 ### Soft Skills
 
 Durante o projeto, me comuniquei com a equipe para organizar melhor os dados, sugerindo nomes mais claros no Excel e ajudando na criação do banco de dados. Também colaborei no desenvolvimento da parte visual do sistema, criando formulários e tabelas que mostram as vendas de forma simples.</br>
-Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha dúvidas. Como Scrum Master, incentivei a organização das tarefas, promovendo a colaboração entre os integrantes e garantindo que o time mantivesse um bom ritmo de trabalho. Essa experiência fortaleceu minhas habilidades de comunicação, liderança e organização.
+Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha dúvidas. Incentivei a organização das tarefas, promovendo a colaboração entre os integrantes e garantindo que o time mantivesse um bom ritmo de trabalho. Essa experiência fortaleceu minhas habilidades de comunicação, liderança e organização.
 
 </details>
 <details>
@@ -187,7 +185,7 @@ Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha
 Principais Contribuições:<br>
 No projeto, ajudei na organização do banco de dados criando o modelo UML, que serve para documentar e entender melhor como os dados estão conectados. Também trabalhei criando rotas que permitem o usuário mudar a senha ou resetar para a senha padrão, quando necessário.</br>
 Fiz melhorias no banco de dados, deixando ele mais organizado e adequado às novas necessidades do sistema. Também implementei a paginação dos tickets, para que os dados fossem exibidos de forma mais limpa e fácil de visualizar. </br>
-Atuei também como Product Owner, ajudando a definir as prioridades do sistema e garantindo que as funcionalidades desenvolvidas atendessem às necessidades dos usuários.
+Atuei como Product Owner, ajudando a definir as prioridades do sistema e garantindo que as funcionalidades atendessem às necessidades dos usuários. Usei o Excel para organizar o backlog e planejar as tarefas de cada Sprint. Mantive contato frequente com o cliente para alinhar as entregas e validar o que seria feito em cada etapa.
 
 ---
 
