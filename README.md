@@ -120,7 +120,7 @@ Trabalhei bem em equipe, sempre ouvindo sugestões e a ajudando quando alguém p
 
 **Data:** *1° Semestre de 2024*</br></br>
 **Empresa:** *PRO4TECH*</br>
-- **Área de Atuação:** Dashboard de Vendas.</br></br>
+- **Área de Atuação:** Empresa de Tecnologia.</br></br>
 
 **Professores responsáveis:** *Claudio Etelvino de Lima e Fernando Masanori* </br></br>
 **Problema:** Usuários que lidam com volumes de dados frequentemente enfrentam dificuldades para interpretá-los de maneira clara, rápida e eficaz, dificultando os insights. Ferramentas existentes muitas vezes são complexas, pouco intuitivas ou não oferecem a flexibilidade necessária para se adaptarem às necessidades específicas de diferentes perfis de usuários.</br>
@@ -166,7 +166,7 @@ Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha
 
 **Data:** *2° Semestre de  2024*</br></br>
 **Empresa:** *JJM LOG*</br>
-- **Área de Atuação:** Plataforma de integração</br></br>
+- **Área de Atuação:** Empresa de Logística</br></br>
 
 **Professores responsáveis:** *Juliana Forin Pasquini Martinez e Fabiano Sabha* </br></br>
 **Problema:** Muitas empresas enfrentam dificuldades para integrar a comunicação entre setores, organizar documentos, acompanhar o desempenho das equipes e gerenciar atividades como viagens e ordens de serviço. A falta de centralização dessas informações e ferramentas pode causar atrasos, retrabalho e baixa produtividade.</br>
@@ -212,7 +212,7 @@ Trabalhei de forma organizada e em equipe, ajudando a manter o sistema mais clar
 
 **Data:** *1° Semestre de  2025*</br></br>
 **Empresa:** *GSW*</br>
-- **Área de Atuação:** Aplicativo para reembolso de funcionários.</br></br>
+- **Área de Atuação:** Empresa de Tecnologia.</br></br>
 
 **Professores responsáveis:** *Gerson da Penha Neto e Ronaldo Emerick Moreira* </br></br>
 **Problema:** Muitas empresas e colaboradores enfrentam dificuldades com processos manuais e demorados para solicitar e aprovar reembolsos. Isso gera atrasos, falta de controle, erros e pouca transparência na gestão de despesas corporativas.</br>
