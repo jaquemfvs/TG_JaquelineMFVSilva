@@ -168,7 +168,6 @@ Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha
 **Empresa:** *JJM LOG*</br>
 - **Área de Atuação:** Empresa de Logística</br></br>
 
-**Professores responsáveis:** *Juliana Forin Pasquini Martinez e Fabiano Sabha* </br></br>
 **Problema:** Muitas empresas enfrentam dificuldades para integrar a comunicação entre setores, organizar documentos, acompanhar o desempenho das equipes e gerenciar atividades como viagens e ordens de serviço. A falta de centralização dessas informações e ferramentas pode causar atrasos, retrabalho e baixa produtividade.</br>
 **Desafio:** Criar uma plataforma única que reúna, de forma simples e eficiente, tudo o que os setores da empresa precisam: comunicação interna, gestão de documentos, acompanhamento de desempenho, ordens de serviço e ferramentas colaborativas.</br>
 **Solução:** O WeCollab propõe uma plataforma integrada que centraliza as principais funções da rotina empresarial. Com uma interface responsiva e intuitiva, oferece acesso rápido a documentos, dashboards de desempenho, agenda, chat, roteiros de viagem e portal de arquivos pessoais dos funcionários. A plataforma é segura, adaptável e pode ser integrada a outros sistemas, promovendo uma comunicação mais eficiente e melhor organização interna.</br></br>
@@ -187,7 +186,8 @@ Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha
 
 Principais Contribuições:<br>
 No projeto, ajudei na organização do banco de dados criando o modelo UML, que serve para documentar e entender melhor como os dados estão conectados. Também trabalhei criando rotas que permitem o usuário mudar a senha ou resetar para a senha padrão, quando necessário.</br>
-Fiz melhorias no banco de dados, deixando ele mais organizado e adequado às novas necessidades do sistema. Também implementei a paginação dos tickets, para que os dados fossem exibidos de forma mais limpa e fácil de visualizar. 
+Fiz melhorias no banco de dados, deixando ele mais organizado e adequado às novas necessidades do sistema. Também implementei a paginação dos tickets, para que os dados fossem exibidos de forma mais limpa e fácil de visualizar. </br>
+Atuei também como Product Owner, ajudando a definir as prioridades do sistema e garantindo que as funcionalidades desenvolvidas atendessem às necessidades dos usuários.
 
 ---
 
@@ -203,7 +203,7 @@ Fiz melhorias no banco de dados, deixando ele mais organizado e adequado às nov
 ### Soft Skills
 
 - Durante o projeto, colaborei com a equipe explicando como o banco de dados estava organizado e ajudando a documentar isso com o modelo UML. Também compartilhei ideias para melhorar a estrutura do sistema, como na parte de senha e na exibição dos tickets com paginação.</br>
-Trabalhei de forma organizada e em equipe, ajudando a manter o sistema mais claro e fácil de entender tanto no backend quanto na parte visual.
+Como Product Owner definir prioridades, pensando na experiência do usuário e garantindo que as soluções desenvolvidas fossem funcionais e alinhadas com os objetivos do sistema. Trabalhei de forma organizada e em equipe, ajudando a manter o sistema mais claro e fácil de entender tanto no backend quanto na parte visual.
 
 </details>
 <details>
@@ -214,7 +214,6 @@ Trabalhei de forma organizada e em equipe, ajudando a manter o sistema mais clar
 **Empresa:** *GSW*</br>
 - **Área de Atuação:** Empresa de Tecnologia.</br></br>
 
-**Professores responsáveis:** *Gerson da Penha Neto e Ronaldo Emerick Moreira* </br></br>
 **Problema:** Muitas empresas e colaboradores enfrentam dificuldades com processos manuais e demorados para solicitar e aprovar reembolsos. Isso gera atrasos, falta de controle, erros e pouca transparência na gestão de despesas corporativas.</br>
 **Desafio:** Desenvolver um aplicativo móvel que torne o processo de reembolso mais rápido, simples e acessível. A aplicação precisa ser fácil de usar, funcionar bem em diferentes dispositivos e se adaptar às mudanças e necessidades dos usuários e da empresa, garantindo eficiência e controle financeiro.</br>
 **Solução:** O ExpenseFlow é uma aplicação móvel criada para facilitar a requisição e gestão de reembolsos corporativos. Com uma interface intuitiva e responsiva, permite que os usuários façam solicitações com praticidade e que as empresas aprovem com agilidade. Desenvolvido com a metodologia ágil Scrum, o projeto garante entregas contínuas e melhorias constantes, promovendo mais transparência, produtividade e controle nas finanças da empresa.</br></br>
