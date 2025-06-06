@@ -168,7 +168,7 @@ Trabalhei bem em grupo, explicando minhas ideias e ajudando quando alguém tinha
 
 **Problema:** Muitas empresas enfrentam dificuldades para integrar a comunicação entre setores, organizar documentos, acompanhar o desempenho das equipes e gerenciar atividades como viagens e ordens de serviço. A falta de centralização dessas informações e ferramentas pode causar atrasos, retrabalho e baixa produtividade.</br>
 **Desafio:** Criar uma plataforma única que reúna, de forma simples e eficiente, tudo o que os setores da empresa precisam: comunicação interna, gestão de documentos, acompanhamento de desempenho, ordens de serviço e ferramentas colaborativas.</br>
-**Solução:** O WeCollab propõe uma plataforma integrada que centraliza as principais funções da rotina empresarial. Com uma interface responsiva e intuitiva, oferece acesso rápido a documentos, dashboards de desempenho, agenda, chat, roteiros de viagem e portal de arquivos pessoais dos funcionários. A plataforma é segura, adaptável e pode ser integrada a outros sistemas, promovendo uma comunicação mais eficiente e melhor organização interna.</br></br>
+**Solução:** O WeCollab propõe uma plataforma integrada que centraliza as principais funções da rotina empresarial. Com uma interface responsiva e intuitiva, oferece acesso rápido a documentos e portal de arquivos pessoais dos funcionários. A plataforma é segura, adaptável e pode ser integrada a outros sistemas, promovendo uma comunicação mais eficiente e melhor organização interna.</br></br>
 
 **GitHub:** [BYTEBOOST - WeCollab](https://github.com/Byte-Boost/WeCollab)</br></br>
 
