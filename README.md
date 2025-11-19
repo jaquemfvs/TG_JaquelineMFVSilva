@@ -205,18 +205,18 @@ Como Product Owner definir prioridades, pensando na experiência do usuário e g
 
 </details>
 <details>
-<summary>6º Semestre</summary>
+<summary>5º Semestre</summary>
 </br>
 
-**Data:** *2° Semestre de  2025*</br></br>
-**Empresa:** *Xertica.ai*</br>
+**Data:** *1° Semestre de  2025*</br></br>
+**Empresa:** *GSW*</br>
 - **Área de Atuação:** Empresa de Tecnologia.</br></br>
 
 **Problema:** Muitas empresas e colaboradores enfrentam dificuldades com processos manuais e demorados para solicitar e aprovar reembolsos. Isso gera atrasos, falta de controle, erros e pouca transparência na gestão de despesas corporativas.</br>
 **Desafio:** Desenvolver um aplicativo móvel que torne o processo de reembolso mais rápido, simples e acessível. A aplicação precisa ser fácil de usar, funcionar bem em diferentes dispositivos e se adaptar às mudanças e necessidades dos usuários e da empresa, garantindo eficiência e controle financeiro.</br>
 **Solução:** O ExpenseFlow é uma aplicação móvel criada para facilitar a requisição e gestão de reembolsos corporativos. Com uma interface intuitiva e responsiva, permite que os usuários façam solicitações com praticidade e que as empresas aprovem com agilidade. Desenvolvido com a metodologia ágil Scrum, o projeto garante entregas contínuas e melhorias constantes, promovendo mais transparência, produtividade e controle nas finanças da empresa.</br></br>
 
-**GitHub:** [BYTEBOOST - Junipy](https://github.com/Byte-Boost/Junipy)</br></br>
+**GitHub:** [BYTEBOOST - ExpenseFlow](https://github.com/Byte-Boost/ExpenseFlow)</br></br>
 
 ### Tecnologias Utilizadas
 
@@ -249,33 +249,36 @@ Trabalhei em grupo, sugerindo melhorias como o campo de razão da avaliação no
 
 </details>
 <details>
-<summary>5º Semestre</summary>
+<summary>6º Semestre</summary>
 </br>
 
-**Data:** *1° Semestre de  2025*</br></br>
-**Empresa:** *GSW*</br>
+**Data:** *2° Semestre de  2025*</br></br>
+**Empresa:** *Xertica.ai*</br>
 - **Área de Atuação:** Empresa de Tecnologia.</br></br>
 
-**Problema:** Muitas empresas e colaboradores enfrentam dificuldades com processos manuais e demorados para solicitar e aprovar reembolsos. Isso gera atrasos, falta de controle, erros e pouca transparência na gestão de despesas corporativas.</br>
-**Desafio:** Desenvolver um aplicativo móvel que torne o processo de reembolso mais rápido, simples e acessível. A aplicação precisa ser fácil de usar, funcionar bem em diferentes dispositivos e se adaptar às mudanças e necessidades dos usuários e da empresa, garantindo eficiência e controle financeiro.</br>
-**Solução:** O ExpenseFlow é uma aplicação móvel criada para facilitar a requisição e gestão de reembolsos corporativos. Com uma interface intuitiva e responsiva, permite que os usuários façam solicitações com praticidade e que as empresas aprovem com agilidade. Desenvolvido com a metodologia ágil Scrum, o projeto garante entregas contínuas e melhorias constantes, promovendo mais transparência, produtividade e controle nas finanças da empresa.</br></br>
+**Problema:** Muitas pessoas enfrentam dificuldades para acessar orientações nutricionais confiáveis e personalizadas no dia a dia. A falta de acompanhamento contínuo, o excesso de informações divergentes na internet e a ausência de ferramentas acessíveis dificultam a adoção de hábitos saudáveis, especialmente para quem possui restrições alimentares ou objetivos específicos.</br>
+**Desafio:** Desenvolver um agente conversacional inteligente que ofereça suporte nutricional de forma rápida, clara e personalizada. O sistema precisa compreender as necessidades individuais dos usuários, interagir de maneira natural e fornecer recomendações seguras. Além disso, deve ser fácil de usar, adaptável a diferentes perfis e capaz de acompanhar mudanças nos objetivos e nos hábitos alimentares ao longo do tempo.</br>
+**Solução:** O agente conversacional nutricional,  foi criado para oferecer orientação nutricional personalizada e acessível. Com uma interface intuitiva, o sistema coleta informações essenciais sobre saúde, rotina e preferências alimentares, fornecendo recomendações alinhadas aos objetivos do usuário.</br></br>
 
-**GitHub:** [BYTEBOOST - ExpenseFlow](https://github.com/Byte-Boost/ExpenseFlow)</br></br>
+**GitHub:** [BYTEBOOST - Junipy](https://github.com/Byte-Boost/Junipy)</br></br>
 
 ### Tecnologias Utilizadas
 
-- **HTML5 & CSS**: Utilizados para criar uma interface web responsiva e intuitiva, garantindo uma navegação fluida e uma boa experiência visual em diferentes dispositivos.
+- **Python**: Utilizado como linguagem principal para desenvolver a lógica do agente conversacional, permitindo processamento eficiente de dados e integração com modelos de IA.
+- **Java**: Responsável pela implementação da lógica de negócios e controle da aplicação, oferecendo uma estrutura robusta, orientada a objetos e com alto desempenho.
+- **MySQL**: Utilizado para o armazenamento e gerenciamento eficiente dos dados, garantindo integridade, segurança e facilidade de acesso às informações.
 - **MongoDB**: Banco de dados NoSQL utilizado para armazenar dados não estruturados ou flexíveis, oferecendo agilidade e escalabilidade em tempo real.
-- **Android Studio**: Ferramenta utilizada para o desenvolvimento da versão móvel da aplicação, possibilitando a criação de uma interface nativa para dispositivos Android, com foco em usabilidade e desempenho.
-- **React**: Aplicado no desenvolvimento da interface web dinâmica e interativa, oferecendo uma experiência moderna e reativa para os usuários.
-- **Node.js**: Responsável pelo backend da aplicação, permitindo o processamento eficiente das requisições e a integração com os bancos de dados.
+- **FastAPI**: Framework utilizado para criar APIs rápidas e seguras. Facilita a comunicação entre o agente conversacional, o backend e outras aplicações, garantindo alta performance e respostas em tempo real.
+- **Spring Boot**: Framework baseado em Java que facilita a criação de serviços backend. Simplifica a configuração de projetos e permite construir APIs seguras, leves e prontas para produção.
+- **Maven**: Ferramenta de gerenciamento de dependências e automação de projetos Java. Auxilia na organização do código, controle de bibliotecas e construção padronizada da aplicação.
 - **TypeScript**: Usado em conjunto com React e Node.js para aumentar a segurança e a qualidade do código, por meio de tipagem estática e melhor organização.
+- **Vue.JS**: Framework JavaScript utilizado para criar interfaces web dinâmicas e amigáveis. Permite construir telas rápidas, responsivas e fáceis de interagir.
   
 ### Contribuições Pessoais
 
 Principais Contribuições:<br>
-No projeto, trabalhei na parte de backend, criando uma rota chamada “/user/register” para que novos usuários pudessem se cadastrar.</br>
-Também desenvolvi um filtro de reembolsos, que permite buscar os dados por projeto e por status, facilitando a organização das informações. Fiz uma melhoria no sistema de reembolso, adicionando um campo para explicar o motivo da avaliação, deixando o processo mais claro e completo para os usuários.
+No projeto, atuei no desenvolvimento do frontend utilizando Vue.js. Desenvolvi a página de login, permitindo que os usuários acessem o sistema de forma clara e segura.<br>
+Também criei a página destinada ao nutricionista, onde é possível visualizar e autorizar dietas enviadas pelos usuários. Organizei as informações de maneira objetiva, facilitando a análise das dietas e a tomada de decisão.
 
 ---
 
