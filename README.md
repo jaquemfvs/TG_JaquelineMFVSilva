@@ -284,14 +284,13 @@ Também criei a página destinada ao nutricionista, onde é possível visualizar
 
 ### Hard Skills
 
-- **Node.js/TypeScript**: Criação de rotas no backend, como o cadastro de usuários e filtros de reembolso por projeto e status. (Faço/Uso com ajuda)
-- **Android Studio**: Participação no desenvolvimento da versão mobile do sistema. (Faço/Uso com ajuda)
+- **Vue.js**: Desenvolvimento de interfaces no frontend, incluindo criação de páginas como login e painel do nutricionista para visualização e autorização de dietas. (Faço/Uso com ajuda)
 
 ---
 
 ### Soft Skills
 
-Durante o projeto, colaborei com a equipe criando soluções no backend, como o cadastro de usuários e filtros de reembolso. Sempre me comuniquei com clareza para explicar minhas ideias e entender o que era necessário melhorar.</br>
-Trabalhei em grupo, sugerindo melhorias como o campo de razão da avaliação no reembolso.
+Durante o projeto, mantive uma comunicação clara com a equipe para entender as necessidades e ajustar as telas conforme solicitado. Trabalhei de forma colaborativa, sempre aberta a sugestões e melhorias.<br>
+Organizei as informações das páginas com atenção, buscando facilitar o uso do sistema. Essas atividades fortaleceram minhas habilidades de comunicação, trabalho em equipe e organização.
 
 </details>
