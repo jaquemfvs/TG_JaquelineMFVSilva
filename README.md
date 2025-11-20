@@ -201,7 +201,7 @@ Atuei como Product Owner, ajudando a definir as prioridades do sistema e garanti
 ### Soft Skills
 
 - Durante o projeto, colaborei com a equipe explicando como o banco de dados estava organizado e ajudando a documentar isso com o modelo UML. Também compartilhei ideias para melhorar a estrutura do sistema, como na parte de senha e na exibição dos tickets com paginação.</br>
-Como Product Owner definir prioridades, pensando na experiência do usuário e garantindo que as soluções desenvolvidas fossem funcionais e alinhadas com os objetivos do sistema. Trabalhei de forma organizada e em equipe, ajudando a manter o sistema mais claro e fácil de entender tanto no backend quanto na parte visual.
+Como Product Owner defini prioridades, pensando na experiência do usuário e garantindo que as soluções desenvolvidas fossem funcionais e alinhadas com os objetivos do sistema. Trabalhei de forma organizada e em equipe, ajudando a manter o sistema mais claro e fácil de entender tanto no backend quanto na parte visual.
 
 </details>
 <details>
@@ -244,8 +244,8 @@ Também desenvolvi um filtro de reembolsos, que permite buscar os dados por proj
 
 ### Soft Skills
 
-Durante o projeto, colaborei com a equipe criando soluções no backend, como o cadastro de usuários e filtros de reembolso. Sempre me comuniquei com clareza para explicar minhas ideias e entender o que era necessário melhorar.</br>
-Trabalhei em grupo, sugerindo melhorias como o campo de razão da avaliação no reembolso.
+Durante o projeto, colaborei com a equipe desenvolvendo soluções no backend, como o cadastro de usuários e a implementação de filtros de reembolso. Mantive uma comunicação clara e objetiva para apresentar minhas ideias e compreender as necessidades do time, garantindo que todos estivessem alinhados ao que precisava ser executado.<br>
+Atuei de forma colaborativa, contribuindo com sugestões, fortalecendo o trabalho em grupo e apoiando a evolução contínua do sistema.
 
 </details>
 <details>
@@ -290,7 +290,7 @@ Também criei a página destinada ao nutricionista, onde é possível visualizar
 
 ### Soft Skills
 
-Durante o projeto, mantive uma comunicação clara com a equipe para entender as necessidades e ajustar as telas conforme solicitado. Trabalhei de forma colaborativa, sempre aberta a sugestões e melhorias.<br>
-Organizei as informações das páginas com atenção, buscando facilitar o uso do sistema. Essas atividades fortaleceram minhas habilidades de comunicação, trabalho em equipe e organização.
+Durante o projeto, mantive uma comunicação clara com a equipe para compreender as necessidades do sistema e realizar os ajustes necessários nas telas. Trabalhei de forma colaborativa, sempre aberta a sugestões e melhorias que contribuíssem para a evolução do produto. Essas atividades fortaleceram minhas habilidades de comunicação, trabalho em equipe e organização.<br>
+Além disso, atuei como Scrum Master, acompanhando as tarefas, garantindo o andamento das atividades e contribuindo para que as entregas fossem realizadas dentro do prazo.
 
 </details>
